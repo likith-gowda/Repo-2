@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DAED-1D78
+
+ Directory of C:\Users\Likith.Gowda\Desktop\my project
+
+07/24/2019  03:59 PM    <DIR>          .
+07/24/2019  03:59 PM    <DIR>          ..
+07/24/2019  03:59 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  44,180,656,128 bytes free
